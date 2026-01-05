@@ -4,7 +4,7 @@
 
 Line Rotation can be implemented using this renderer as below.
 
-![LineRotation](./SoftRenderer/Resource/LineRotation.gif)
+![LineRotation](./Resource/LineRotation.gif)
 
 ```cpp
 while (true)
